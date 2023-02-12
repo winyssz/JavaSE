@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class TestFileOutputStream {
+public class TestFileCopy {
     public static void main(String[] args) {
         FileInputStream in=null;
         FileOutputStream out=null;
